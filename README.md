@@ -6,6 +6,14 @@ A modern, offline-capable desktop application for intelligent color detection us
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.2+-purple.svg)
 
+## 📥 Download
+
+**Windows Users**: Download the standalone executable - no Python installation required!
+
+[![Download](https://img.shields.io/badge/Download-ColorDetectionPro.exe-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Misrilal-Sah/Color-Detection-Using-python/releases/latest)
+
+> **Note**: The .exe file is ~370 MB as it includes all dependencies (OpenCV, scikit-learn, etc.)
+
 ## ✨ Features
 
 ### Core Features
@@ -122,10 +130,6 @@ The application includes 265+ named colors from:
 - Popular design system colors
 - Nature-inspired colors
 - Pantone-inspired shades
-
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
